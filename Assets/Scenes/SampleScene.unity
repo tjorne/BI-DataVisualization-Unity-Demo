@@ -134,7 +134,7 @@ GameObject:
   - component: {fileID: 250216639}
   - component: {fileID: 250216638}
   m_Layer: 0
-  m_Name: PopulationDensity
+  m_Name: CreatePrimitiveExample
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
