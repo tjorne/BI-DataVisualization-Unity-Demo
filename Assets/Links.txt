@@ -10,4 +10,3 @@ WebGLGlobe project:
 	
 	Examples: https://experiments.withgoogle.com/chrome/globe
 	
-	
