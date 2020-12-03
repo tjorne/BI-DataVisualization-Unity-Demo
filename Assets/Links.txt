@@ -1,0 +1,13 @@
+Vuforia (AR unity plugin):
+	https://unity-landing.vuforia.com/
+
+Blogpost: creating 3d maps (population density) using Aerialod:
+	http://www.statsmapsnpix.com/2020/11/how-to-make-3d-population-density.html?m=1
+	
+WebGLGlobe project: 
+	https://assetstore.unity.com/packages/templates/systems/globe-data-visualizer-80008
+	https://github.com/Dandarawy/Unity3D-Globe
+	
+	Examples: https://experiments.withgoogle.com/chrome/globe
+	
+	
